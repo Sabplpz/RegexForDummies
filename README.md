@@ -90,4 +90,4 @@ When wanting the computer to ignore the meaning behind 'i' for example we would 
 
 Sabrina Centeno is the author of this tutorial for dummies, like herself. Please take all the information with a grain of salt :)
 Github: https://github.com/Sabplpz
-Thanks you!
+Thank you!
